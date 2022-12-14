@@ -1,0 +1,18 @@
+#mysql NIC DB properties
+DB_DRIVER_CLASS=com.mysql.jdbc.Driver
+DB_URL=jdbc:mysql://10.246.20.131:3306/moes_api?useUnicode=true&characterEncoding=utf8
+DB_USERNAME=root
+DB_PASSWORD=moes1234$
+
+#mysql test DB properties
+#DB_DRIVER_CLASS=com.mysql.jdbc.Driver
+#DB_URL=jdbc:mysql://104.211.96.208:3306/moes_api?useUnicode=true&characterEncoding=utf8
+#DB_USERNAME=moesapi
+#DB_PASSWORD=moes@1234#$
+
+#mysql local DB properties
+#DB_DRIVER_CLASS=com.mysql.jdbc.Driver
+#DB_URL=jdbc:mysql://104.211.96.208:3306/moes_api?useUnicode=true&characterEncoding=UTF-8
+#DB_USERNAME=test
+#DB_PASSWORD=yoga@(2018)
+
